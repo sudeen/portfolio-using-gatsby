@@ -1,5 +1,5 @@
 import React from "react"
-// import "../css/main.css"
+// import "../css/main.css" (Either import here or in gatsby-browser.js file)
 import Navbar from "./Navbar"
 import Sidebar from "./Sidebar"
 import Footer from "./Footer"
